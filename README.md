@@ -31,4 +31,10 @@
   <a href="https://www.linkedin.com/in/kathiane-ribeiro-58108619a/" target="_blank"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/linkedin.svg" width="35" height="35" alt="LinkedIn" /></a>
 </p>
 
-![Snake animation](https://github.com/kathianers/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kathianers/Kathianers/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kathianers/Kathianers/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kathianers/Kathianers/output/github-contribution-grid-snake.svg">
+</picture>
