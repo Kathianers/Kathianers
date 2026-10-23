@@ -21,10 +21,10 @@
 ---
 
 ### 📌 Sobre mim:
-- 🚀 Profissional em transição de carreira, iniciando agora na tech.
-- 💡 Tenho experiência em gestão de pessoas, resolução de conflitos e atendimento ao cliente. 
-- 📚 Atualmente focada em aprofundar e entender o mundo da tecnologia.
-- 🎯 Buscando oportunidades de estágio para ter mais contato com a área.
+- 🚀 Profissional em transição para área de tecnologia;
+- 💡 Tenho vivência em gestão de pessoas, resolução de conflitos e atendimento ao cliente;
+- 📚 Experiência operacional em sistemas hospitalares tais como: Tasy Java/HTML5, Philips RIS, Overmind e Green;
+- 🎯 Buscando minha primeira oportunidade de estágio em tecnologia para evoluir na prática.
 
 ---
 
