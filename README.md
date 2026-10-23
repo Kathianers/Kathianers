@@ -8,9 +8,14 @@
 ### 💻 Tecnologias & Linguagens que estou estudando:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL / PL/SQL" alt="SQL / PL/SQL" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
 </p>
 
 ---
